@@ -1,0 +1,14 @@
+#clock {
+    font-size: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Verdana', "sans-serif";
+    color: rgb(224, 222, 222);
+    background-color:rgb(95, 95, 95);
+    margin: 250px 250px 250px 250px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.932);
+}
